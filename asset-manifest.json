@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/587mernstack/static/css/main.ff02f4b5.css",
-    "main.js": "/587mernstack/static/js/main.fc1516ae.js",
-    "static/js/453.461d5229.chunk.js": "/587mernstack/static/js/453.461d5229.chunk.js",
-    "index.html": "/587mernstack/index.html",
-    "main.ff02f4b5.css.map": "/587mernstack/static/css/main.ff02f4b5.css.map",
-    "main.fc1516ae.js.map": "/587mernstack/static/js/main.fc1516ae.js.map",
-    "453.461d5229.chunk.js.map": "/587mernstack/static/js/453.461d5229.chunk.js.map"
+    "main.css": "/siddi/static/css/main.ff02f4b5.css",
+    "main.js": "/siddi/static/js/main.0772bd31.js",
+    "static/js/453.461d5229.chunk.js": "/siddi/static/js/453.461d5229.chunk.js",
+    "index.html": "/siddi/index.html",
+    "main.ff02f4b5.css.map": "/siddi/static/css/main.ff02f4b5.css.map",
+    "main.0772bd31.js.map": "/siddi/static/js/main.0772bd31.js.map",
+    "453.461d5229.chunk.js.map": "/siddi/static/js/453.461d5229.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.fc1516ae.js"
+    "static/js/main.0772bd31.js"
   ]
 }
